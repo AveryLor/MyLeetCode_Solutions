@@ -1,14 +1,7 @@
 9. Palindrome Number
-Solved
-Easy
-Topics
-Companies
-Hint
-Given an integer x, return true if x is a 
-palindrome
-, and false otherwise.
 
- 
+Given an integer x, return true if x is a 
+palindrome, and false otherwise.
 
 Example 1:
 
@@ -30,6 +23,5 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 Constraints:
 
 -231 <= x <= 231 - 1
- 
 
 Follow up: Could you solve it without converting the integer to a string?
