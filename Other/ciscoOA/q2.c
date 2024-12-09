@@ -1,3 +1,7 @@
+// Essentially just a question to find the solution to the largest palindromic substring
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
