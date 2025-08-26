@@ -25,3 +25,8 @@ class Solution(object):
             return leaves
 
         return get_leaves(root1) == get_leaves(root2)
+
+"""
+Solution is fake because you must do DFS to ensure left to right, if you do BFS and say the rightest node is the first to be
+a leaf, then that shows the flaw in this solution. 
+"""
