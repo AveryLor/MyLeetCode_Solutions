@@ -8,4 +8,4 @@ class Solution:
                     dfs(i)
         dfs(0)
         return len(visited) == len(rooms)
-        
+    
